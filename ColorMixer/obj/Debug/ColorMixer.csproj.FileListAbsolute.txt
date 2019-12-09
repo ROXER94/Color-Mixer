@@ -1,0 +1,9 @@
+C:\Users\corne\Desktop\ColorMixer\ColorMixer\ColorMixer\bin\Debug\ColorMixer.exe.config
+C:\Users\corne\Desktop\ColorMixer\ColorMixer\ColorMixer\bin\Debug\ColorMixer.exe
+C:\Users\corne\Desktop\ColorMixer\ColorMixer\ColorMixer\bin\Debug\ColorMixer.pdb
+C:\Users\corne\Desktop\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csprojResolveAssemblyReference.cache
+C:\Users\corne\Desktop\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.frmColorMixer.resources
+C:\Users\corne\Desktop\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.Properties.Resources.resources
+C:\Users\corne\Desktop\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csproj.GenerateResource.Cache
+C:\Users\corne\Desktop\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.exe
+C:\Users\corne\Desktop\ColorMixer\ColorMixer\ColorMixer\obj\Debug\ColorMixer.pdb

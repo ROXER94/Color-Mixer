@@ -1,0 +1,8 @@
+C:\Users\corne\Desktop\ColorMixer\ColorMixer\ColorMixer\bin\Release\ColorMixer.exe.config
+C:\Users\corne\Desktop\ColorMixer\ColorMixer\ColorMixer\bin\Release\ColorMixer.exe
+C:\Users\corne\Desktop\ColorMixer\ColorMixer\ColorMixer\bin\Release\ColorMixer.pdb
+C:\Users\corne\Desktop\ColorMixer\ColorMixer\ColorMixer\obj\Release\ColorMixer.Properties.Resources.resources
+C:\Users\corne\Desktop\ColorMixer\ColorMixer\ColorMixer\obj\Release\ColorMixer.csproj.GenerateResource.Cache
+C:\Users\corne\Desktop\ColorMixer\ColorMixer\ColorMixer\obj\Release\ColorMixer.exe
+C:\Users\corne\Desktop\ColorMixer\ColorMixer\ColorMixer\obj\Release\ColorMixer.pdb
+C:\Users\corne\Desktop\ColorMixer\ColorMixer\ColorMixer\obj\Release\ColorMixer.frmColorMixer.resources
